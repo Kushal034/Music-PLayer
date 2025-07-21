@@ -1,0 +1,1 @@
+A lightweight and responsive offline music player app for Android, developed using Java and XML. This app allows users to browse, play, and control local audio files with a clean UI and smooth performance.
